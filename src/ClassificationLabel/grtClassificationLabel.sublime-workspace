@@ -1,0 +1,1175 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"out",
+				"outputSinCL"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"CL",
+				"CFLAGS"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"CL_",
+				"CL_DEVICE_MAX_WORK_GROUP_SIZE"
+			],
+			[
+				"get_gl",
+				"get_global_id"
+			],
+			[
+				"kernel",
+				"kernelSize"
+			],
+			[
+				"ke",
+				"kernelSize"
+			],
+			[
+				"CL_DE",
+				"CL_DEVICE_TYPE_GPU"
+			],
+			[
+				"src",
+				"srcString"
+			],
+			[
+				"inc",
+				"incoming"
+			],
+			[
+				"ran",
+				"randomNums"
+			],
+			[
+				"def",
+				"default_device"
+			],
+			[
+				"CL_DEVICE",
+				"CL_DEVICE_MAX_COMPUTE_UNITS"
+			],
+			[
+				"desc",
+				"desciptor"
+			],
+			[
+				"getDe",
+				"getDescriptor"
+			],
+			[
+				"get",
+				"getDescriptor"
+			],
+			[
+				"sdE",
+				"sdEntityExtensionMedia"
+			],
+			[
+				"re",
+				"relevantDescriptors"
+			],
+			[
+				"sdEntity",
+				"sdEntityExtensionMedia"
+			],
+			[
+				"descrip",
+				"descriptorString"
+			],
+			[
+				"getD",
+				"getDescriptorAsString"
+			],
+			[
+				"sdEv",
+				"sdEventCore"
+			],
+			[
+				"core",
+				"coreDescriptors"
+			],
+			[
+				"des",
+				"descriptorString"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"ls",
+				"lstlisting"
+			],
+			[
+				"ve",
+				"vector	std::vector"
+			],
+			[
+				"posi",
+				"positionVectorPtr"
+			],
+			[
+				"vec",
+				"vector	std::vector"
+			],
+			[
+				"num",
+				"numSamps"
+			],
+			[
+				"i",
+				"it	chikashi style c++ vector iterator"
+			],
+			[
+				"fo",
+				"fo	Chikashi style for loop"
+			],
+			[
+				"en",
+				"envelope"
+			],
+			[
+				"att",
+				"attackInSamps"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"dec",
+				"decayInSamps"
+			],
+			[
+				"at",
+				"attackInSamps"
+			],
+			[
+				"I",
+				"Interpolation"
+			],
+			[
+				"table",
+				"tableSize"
+			],
+			[
+				"tab",
+				"tableSize"
+			],
+			[
+				"v",
+				"vectorSize"
+			],
+			[
+				"INTE",
+				"INTERPOLATION_MODE_NONE"
+			],
+			[
+				"de",
+				"details	@details"
+			],
+			[
+				"interpolate",
+				"interpolateLinear"
+			],
+			[
+				"wa",
+				"wavetable"
+			],
+			[
+				"coefv",
+				"coefv"
+			],
+			[
+				"adder",
+				"adderVectorPtr"
+			],
+			[
+				"mu",
+				"multiplierVectorPtr"
+			],
+			[
+				"freq",
+				"frequencyVectorPtr"
+			],
+			[
+				"uni",
+				"unitGenerator"
+			],
+			[
+				"add",
+				"addToChain"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"duty",
+				"dutyCyclePtr"
+			],
+			[
+				"sample",
+				"sampleRate"
+			],
+			[
+				"vecot",
+				"vectorSize"
+			],
+			[
+				"p",
+				"performDSP"
+			],
+			[
+				"sam",
+				"sampleRate"
+			],
+			[
+				"fr",
+				"frequencyVectorRef"
+			],
+			[
+				"set",
+				"setTargetVectorPtr"
+			],
+			[
+				"targe",
+				"targetVectorPtr"
+			],
+			[
+				"audioRa",
+				"audioRateMode"
+			],
+			[
+				"lib",
+				"libspatdif"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"prev",
+				"previousTime"
+			],
+			[
+				"LI",
+				"LIBRARY_PATH"
+			],
+			[
+				"libsc",
+				"libscSynthTest"
+			],
+			[
+				"appe",
+				"appendString"
+			],
+			[
+				"extens",
+				"extensionName"
+			],
+			[
+				"repor",
+				"reportVector"
+			],
+			[
+				"next",
+				"nextEventTime"
+			],
+			[
+				"con",
+				"consoleOut"
+			],
+			[
+				"retu",
+				"returnMessage"
+			],
+			[
+				"getV",
+				"getValueAsString"
+			],
+			[
+				"ap",
+				"appendInt"
+			],
+			[
+				"ret",
+				"returnMessage"
+			],
+			[
+				"append",
+				"appendFloat"
+			],
+			[
+				"getFirstE",
+				"getFirstEventSet"
+			],
+			[
+				"getNextEvent",
+				"getNextEventTime"
+			],
+			[
+				"nex",
+				"nextEventTime"
+			],
+			[
+				"getNext",
+				"getNextEventTime"
+			],
+			[
+				"return",
+				"returnSet"
+			],
+			[
+				"getValue",
+				"getValueAsString"
+			],
+			[
+				"SD_MED",
+				"SD_MEDIA_GAIN"
+			],
+			[
+				"getVa",
+				"getValueAsString"
+			],
+			[
+				"event",
+				"eventSet"
+			],
+			[
+				"getEven",
+				"getEventSets"
+			],
+			[
+				"SD_MEDI",
+				"SD_MEDIA_LOCATION"
+			],
+			[
+				"ex",
+				"extensionFirstEventTime"
+			],
+			[
+				"getFirstEvet",
+				"getFirstEventTime"
+			],
+			[
+				"getFirs",
+				"getFirstEventTime"
+			],
+			[
+				"getFir",
+				"getFirstEventTime"
+			],
+			[
+				"fi",
+				"firstExtenstionSet"
+			],
+			[
+				"getFi",
+				"getFirstEventSet"
+			],
+			[
+				"getF",
+				"getFirstEventSet"
+			],
+			[
+				"retur",
+				"returnSet"
+			],
+			[
+				"sdEvent",
+				"sdEventCompare"
+			],
+			[
+				"ext",
+				"extensionSet"
+			],
+			[
+				"eve",
+				"eventSet"
+			],
+			[
+				"exte",
+				"extensionVector"
+			],
+			[
+				"activate",
+				"activatedExtensionVector"
+			],
+			[
+				"getNumberI",
+				"getNumberOfActivatedExtensions"
+			],
+			[
+				"ge",
+				"getInstance"
+			],
+			[
+				"dnum",
+				"dnumFromFloat"
+			],
+			[
+				"que",
+				"queryTime"
+			],
+			[
+				"rep",
+				"reportVector"
+			],
+			[
+				"si",
+				"singleMessage"
+			],
+			[
+				"getAr",
+				"getMessageAsString"
+			],
+			[
+				"mul",
+				"multipleReturn"
+			],
+			[
+				"qu",
+				"queryTime"
+			],
+			[
+				"spa",
+				"spatdif_interpret"
+			],
+			[
+				"getA",
+				"getAddressAsString"
+			],
+			[
+				"returned",
+				"returnedMessage"
+			],
+			[
+				"address",
+				"addressVector"
+			],
+			[
+				"removeAll",
+				"removeAllEntities"
+			],
+			[
+				"osc",
+				"oscResponder"
+			],
+			[
+				"remove",
+				"removeAllEntities"
+			],
+			[
+				"entityV",
+				"entityVector"
+			],
+			[
+				"getE",
+				"getEntityNames"
+			],
+			[
+				"SD_",
+				"SD_ORIENTATION"
+			],
+			[
+				"getArgument",
+				"getArgumentAsString"
+			],
+			[
+				"sd",
+				"sdOSCResponder"
+			],
+			[
+				"oscMes",
+				"forwardOSCMessage"
+			],
+			[
+				"getArg",
+				"getArgumentAsString"
+			],
+			[
+				"on",
+				"onset"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"type",
+				"typetags"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latx",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pdf",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"tex",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"git rm",
+				"Git: Merge Branch"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"previe",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"Latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"prev",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"preview",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Open Variables View"
+			],
+			[
+				"sub",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"start",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"gdb def",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"snippet",
+				"Snippet: c++ vector iterator"
+			],
+			[
+				"syntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"snipeet",
+				"Snippet: New Class"
+			],
+			[
+				"package Con",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"Markdo",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chikashi/Development/sandbox/glmtest/glmtest.cpp",
+		"/Users/chikashi/Development/sandbox/openCL/average.cl",
+		"/Users/chikashi/Development/sandbox/openCL/openCLtest.cpp",
+		"/Users/chikashi/Development/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofShader.cpp",
+		"/Users/chikashi/Development/sandbox/glmtest/glm/common.hpp",
+		"/Users/chikashi/Development/references/glslcookbook/chapter02/scenediffuse.h",
+		"/Users/chikashi/Development/references/glslcookbook/chapter02/scenediffuse.cpp",
+		"/Users/chikashi/Development/oFProjects/amalgam/bin/data/amalgam.cl",
+		"/Users/chikashi/Desktop/3dtest.cpp",
+		"/Users/chikashi/Development/sandbox/GRT-SOM/SOMTest.cpp",
+		"/Users/chikashi/Development/grt/GRT/CoreModules/MLBase.cpp",
+		"/Users/chikashi/Development/grt/GRT/CoreModules/Clusterer.h",
+		"/Users/chikashi/Development/grt/GRT/ClusteringModules/SelfOrganizingMap/SelfOrganizingMap.h",
+		"/Users/chikashi/Development/grt/GRT/ClusteringModules/SelfOrganizingMap/SelfOrganizingMap.cpp",
+		"/Users/chikashi/Development/oFProjects/oFSOMTest/src/ofApp.cpp",
+		"/Users/chikashi/Development/grt/build/Makefile",
+		"/Users/chikashi/Development/sandbox/GRT-SOM/Makefile",
+		"/Users/chikashi/Development/grt/GRT/GRT.h",
+		"/Users/chikashi/Development/sandbox/som/som.cpp",
+		"/Users/chikashi/Development/of_v0.8.1_osx_release/examples/gl/singleLightExample/src/ofApp.cpp",
+		"/Users/chikashi/Development/of_v0.8.1_osx_release/examples/gl/vboExample/src/ofApp.cpp",
+		"/Users/chikashi/Development/grt/GRT/CoreModules/Classifier.h",
+		"/Users/chikashi/Development/sandbox/openCL/average.cpp",
+		"/Users/chikashi/Development/oFProjects/metaball/src/isoSurface.cpp",
+		"/Users/chikashi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/chikashi/Documents/CV_portfolio/CV/main.tex",
+		"/Users/chikashi/Development/oFProjects/metaball/src/ofApp.cpp",
+		"/Users/chikashi/Development/spatdifpapers/Papers/2014-ICMC/icmcsmc2014template.tex",
+		"/Users/chikashi/Development/oFProjects/metaball/src/isoSurface.h",
+		"/Users/chikashi/Development/oFProjects/metaball/src/IsoPoint.h",
+		"/Users/chikashi/Development/sandbox/initializer/initializer.cpp",
+		"/Users/chikashi/Development/sandbox/openCL/cl.hpp",
+		"/Users/chikashi/Desktop/opencl.hpp",
+		"/Users/chikashi/Desktop/openCLtest.cpp",
+		"/Users/chikashi/Development/Peacock_firmware/KHM_archive/KHM-references.bib",
+		"/Users/chikashi/Development/Peacock_firmware/KHM_archive/KHM.tex",
+		"/Users/chikashi/Development/sandbox/reference/reference.cpp",
+		"/Users/chikashi/Documents/JSSA_SuperCollider/sc5/sc5.tex",
+		"/Users/chikashi/Development/oFProjects/oFMachineLearning/submodules/grt/build/Makefile",
+		"/Users/chikashi/Development/oFProjects/oFMachineLearning/submodules/grt/GRT/GRT.h",
+		"/Users/chikashi/Development/smallOFmodules/pythonEmbedding/chikashi.py",
+		"/Users/chikashi/Documents/JSSA_SuperCollider/sc4/sc4.tex",
+		"/Users/chikashi/Development/smallOFmodules/pythonEmbedding/pythonEmbedding.cpp",
+		"/Users/chikashi/Development/smallOFmodules/pythonEmbedding/chikashiTest.py",
+		"/Users/chikashi/Development/smallOFmodules/pythonEmbedding/ex.py",
+		"/Users/chikashi/Development/smallOFmodules/pythonEmbedding/test.py",
+		"/Users/chikashi/Development/spatdiflib/src/sdEntityExtensionMedia.cpp",
+		"/Users/chikashi/Development/spatdiflib/src/sdEntityExtensionMedia.h",
+		"/Users/chikashi/Development/sandbox/inherited_static/inherited_static.cpp",
+		"/Users/chikashi/Development/spatdiflib/src/sdDescriptor.h",
+		"/Users/chikashi/Development/spatdiflib/src/sdEntityCore.h",
+		"/Users/chikashi/Development/spatdiflib/src/sdEntity.cpp",
+		"/Users/chikashi/Development/spatdiflib/src/sdEntity.h",
+		"/Users/chikashi/Development/spatdiflib/src/sdConst.h",
+		"/Users/chikashi/Development/spatdiflib/src/sdEntityCore.cpp",
+		"/Users/chikashi/Development/spatdiflib/src/sdMain.h",
+		"/Users/chikashi/Development/spatdiflib/examples/generated-scene-time.xml",
+		"/Users/chikashi/Development/spatdiflib/examples/generated-scene-track.xml",
+		"/Users/chikashi/Development/spatdiflib/src/sdInterpolation.h",
+		"/Users/chikashi/Development/oFProjects/oFAngrySparrow/AngrySparrow/src/AngrySparrow.h",
+		"/Users/chikashi/Development/oFProjects/oFAngrySparrow/AngrySparrow/src/Ramp.h",
+		"/Users/chikashi/Development/oFProjects/oFAngrySparrow/AngrySparrow/src/ExpRamp.h",
+		"/Users/chikashi/Development/oFProjects/oFAngrySparrow/AngrySparrow/examples/src/ramp.cpp",
+		"/Users/chikashi/Development/oFProjects/oFAngrySparrow/AngrySparrow/examples/src/expRamp.cpp",
+		"/Users/chikashi/Development/oFProjects/oFAngrySparrow/AngrySparrow/examples/src/Makefile",
+		"/Users/chikashi/Development/Peacock_firmware/KHM_archive/nime-alternate.cls",
+		"/Users/chikashi/Downloads/NIME2011-templates/LaTeX/nime-template.tex",
+		"/Users/chikashi/Development/Peacock_firmware/KHM_archive/interface_main.bb",
+		"/Users/chikashi/Works/Event/2014/HfMT/physical_modeling_with_max.md",
+		"/Users/chikashi/Works/Event/2014/HfMT/img/wgs_final.png",
+		"/Users/chikashi/Works/Event/2014/HfMT/img/wgs_in.png",
+		"/Users/chikashi/Works/Event/2014/HfMT/img/wgs_to_right.png",
+		"/Users/chikashi/Works/Event/2014/HfMT/img/wgs_toright.png",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdScene_c.h",
+		"/Users/chikashi/Development/spatdiflib/src/C/examples/sdSceneTest.c",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdLoader_c.h",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdScene_c.c",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdLoader_c.c",
+		"/Users/chikashi/Development/spatdiflib/src/sdScene.h",
+		"/Users/chikashi/Development/spatdiflib/src/sdScene.cpp",
+		"/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty",
+		"/Users/chikashi/Works/Event/2014/jssa_sc/sc3/sc3.tex",
+		"/Users/chikashi/Works/Event/2014/jssa_sc/sc4/sc4.tex",
+		"/usr/local/texlive/2013/texmf-dist/tex/platex/jsclasses/jsarticle.cls",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdDate_c.c",
+		"/Users/chikashi/Development/spatdiflib/src/C/examples/sdSceneTest.out",
+		"/Users/chikashi/Development/spatdiflib/src/C/examples/sdLoaderTest.out",
+		"/Users/chikashi/Desktop/khm_archive/LaTeX/KHM.tex",
+		"/Users/chikashi/Development/spatdiflib/src/C/Makefile",
+		"/Users/chikashi/Development/spatdiflib/src/C/examples/sdLoaderTest.c",
+		"/Users/chikashi/Development/spatdiflib/src/sdLoader.h",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdDate_c.h",
+		"/Users/chikashi/Development/spatdiflib/src/C/examples/Makefile",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdInfo_c.h",
+		"/Users/chikashi/Desktop/khm_archive/LaTeX/KHM-references.bib",
+		"/Users/chikashi/Desktop/khm_archive/LaTeX/nime-template.tex",
+		"/Users/chikashi/Desktop/khm_archive/KHM_report.tex",
+		"/Users/chikashi/Desktop/khm_archive/icmcsmc2014template.tex",
+		"/Users/chikashi/Desktop/khm_archive/KHM_report.pdf",
+		"/Users/chikashi/Desktop/KHM_report.tex",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Loader.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/LowPass.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Interpolation.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/envelope.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/AngrySparrow.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/EnvGen.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/Makefile",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Ramp.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/UnitGenerator.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/play.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Const.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/ramp.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Play.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/fm.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Butterworth.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Envelope.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/envelope.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/envelop.out",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdcDate.c",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/misc/AngrySparrow.sublime-project",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/lowpass.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/highpass.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/HighPass.h",
+		"/Users/chikashi/Development/spatdiflib/src/sdDate.h",
+		"/Users/chikashi/Development/spatdiflib/src/C/sdcDate.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/examples/src/wavetable.cpp",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/Oscillator.h",
+		"/Users/chikashi/Development/oFProjects/AngrySparrow/src/EnvPlay.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"3d",
+			"cout",
+			"predict",
+			"Self",
+			"predi",
+			"pr",
+			"map",
+			"epoch",
+			"test",
+			"pattern",
+			"tests",
+			"test",
+			"pattern",
+			"material",
+			"vector",
+			"kernelSum",
+			"kernelD3",
+			"ä",
+			"Dänemark",
+			"Radioscape",
+			"o",
+			"Broken Sound",
+			"o",
+			"Broke",
+			"ü",
+			"ä",
+			"ö",
+			"ä",
+			"	",
+			"24	",
+			"	",
+			"{	",
+			"getpoint",
+			"ss",
+			"Gro",
+			"ss",
+			"\\ss",
+			"gro",
+			"Vortag",
+			"spat",
+			"gridsize",
+			"result",
+			"randomNums",
+			"100",
+			"cl::",
+			"source",
+			"string",
+			"vector",
+			"cl::",
+			"transfer",
+			"Data",
+			"getDescriptorAsString",
+			"getDescriptorAs",
+			"std::",
+			"Relevant",
+			"getDescriptor",
+			"getDescriptorAsString",
+			"relevantDescriptors",
+			"numberOfRelevantDescriptors",
+			"numberOf",
+			"numberOfDescriptros",
+			"numberOfRelevantDescriptors",
+			"numberOfCoreDescriptors",
+			"numberOfCore",
+			"numberOfCoreDescriptors",
+			"coreDescriptors",
+			"coreDescriptor",
+			"coreDescriptors",
+			"getDescriptor",
+			"getDescriptorAsS",
+			"relevant",
+			"coreDescriptors",
+			"getDescriptor",
+			"getDescriptorAsString",
+			"Date",
+			"	#include \"Ramp.h\"\n",
+			"ExpRamp_h",
+			"Ramp",
+			"item",
+			"fig:module",
+			"figure",
+			"board",
+			"Peacock II",
+			"##",
+			"原音",
+			"ピッチシフター",
+			"サイン波",
+			"ディレイタイム",
+			"エフェクタ",
+			"エフェクター",
+			"エフェクタ",
+			"Mix",
+			"Mix.ar",
+			"bf",
+			"code:ping",
+			"code:delay",
+			"graphicx",
+			"receives",
+			"placed",
+			"/**",
+			"Scene",
+			"playVec",
+			"play",
+			"envelope",
+			"Envelope",
+			"performDSP",
+			"wavetable",
+			"attack",
+			"EnvGen",
+			"coefVec",
+			"lowpass",
+			"LowPass",
+			"onepole",
+			"OnePole",
+			"sdCWrapper",
+			"____sdCWrapper_",
+			"EnvPlay_h",
+			"Const",
+			"vector",
+			"Interpollation",
+			"prepareCubic",
+			"INTERPOLATION_MODE_",
+			"INTER",
+			"weight",
+			"Ramp",
+			"Ram",
+			"Ramp",
+			"  \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 396.0
+	},
+	"project": "grtClassificationLabel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"src/Play.h"
+			],
+			[
+				"en",
+				"src/Envelope.h"
+			],
+			[
+				"e",
+				"examples/src/envelope.cpp"
+			],
+			[
+				"env",
+				"src/Envelope.h"
+			],
+			[
+				"noi",
+				"src/Noise.h"
+			],
+			[
+				"seta",
+				"src/Generator.h"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"sdscene",
+				"src/sdScene.h"
+			],
+			[
+				"sdoscre",
+				"examples/sdOSCResponderTest.cpp"
+			],
+			[
+				"sdoscr",
+				"src/sdOSCResponder.cpp"
+			],
+			[
+				"",
+				"~/Works/Event/2014/Interface-Entwicklung_ZHDK_2014/Klasse2/Klasse2.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/oFProjects/oFAngrySparrow/oFAngrySparrow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
