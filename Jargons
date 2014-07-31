@@ -1,3 +1,11 @@
 Clustering ... unsupervised, the algorithm doesn't know about classes
-
 Clasification ... supervised, the algorithm already knows what possible classes and their definitions
+
+- K-Means Algorithm
+
+Clustering the given item into K groups.
+1. Assign cluster number RANDOMLY to all items.
+2. calculate CENTER of cluster(average) 
+3. assign all items again, using updated CENTER
+4. repeat 2 and 3 until the assignment doesn't change
+
